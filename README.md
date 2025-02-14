@@ -20,7 +20,7 @@ If you're passionate about data, open source, or innovative governance models—
 
 - **Email:** [128boilerrat@gmail.com](mailto:128boilerrat@gmail.com)
 - **Telegram:** [@boiler](https://t.me/boiler)
-- **Warpcast:** [@boiler](https://warpcast.com/@boiler)
+- **Warpcast:** [@boiler](https://warpcast.com/boiler)
 
 Feel free to reach out and join us on this journey as we explore the future of decentralized data commons.
 
